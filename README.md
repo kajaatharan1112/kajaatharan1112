@@ -19,7 +19,7 @@ Most of my day goes into a multi-tenant HR and work-management platform. I desig
 - [Car rental (Blazor)](https://github.com/kajaatharan1112/Blazer_frame_work_car_rental_unicom.tic): car rental system built with Blazor and C#
 - [Unicom TIC management system](https://github.com/kajaatharan1112/C--project-UT010025): one of my first C# projects
 
-Most of my day-to-day work is in private company repos, so it doesn't show up here.
+Most of my day-to-day work happens in my company's organization repos, not in the ones listed here.
 
 ### Find me
 
