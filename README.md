@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Kajaatharan
 
-<!--
-**kajaatharan1112/kajaatharan1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer from Sri Lanka. I work at **Unicom TIC Incubator** (since Feb 2026) and study for my BIT at the **University of Moratuwa**.
 
-Here are some ideas to get you started:
+Most of my day goes into a multi-tenant HR and work-management platform. I designed its frontend architecture and did about half of the backend architecture. The two things I care about most are **software architecture** and **security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Frontend:** Angular, TypeScript, RxJS, Tailwind CSS, a bit of React
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, SignalR, Clean Architecture
+- **Databases:** PostgreSQL (row-level security), SQL Server, SQLite
+- **Security:** deny-by-default permissions, rate limiting, input validation, security headers. Learning Kali Linux and networking on the side
+- **Other:** Docker, GitHub Actions, Azure, AWS, Python, Flutter
+
+### Some repos here
+
+- [vinayack](https://github.com/kajaatharan1112/vinayack---The-cybersecurity-automation-): my cybersecurity study notes (Kali tools, networking, malware analysis, OSINT). Phase 2 will be an automation tool built on top of them
+- [pdf-Scanner](https://github.com/kajaatharan1112/pdf-Scanner-flatter-): a PDF scanner app in Flutter
+- [Car rental (Blazor)](https://github.com/kajaatharan1112/Blazer_frame_work_car_rental_unicom.tic): car rental system built with Blazor and C#
+- [Unicom TIC management system](https://github.com/kajaatharan1112/C--project-UT010025): one of my first C# projects
+
+Most of my day-to-day work is in private company repos, so it doesn't show up here.
+
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/kajaatharan-mahendran-7b8893451)
